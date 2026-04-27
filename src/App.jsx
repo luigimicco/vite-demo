@@ -15,7 +15,7 @@ export default function App() {
     <div style={{ padding: '2rem', fontFamily: 'system-ui' }}>
       <h1>Mini Task List</h1>
       <p style={{ color: '#888' }}>
-        Progetto di esempio per GitHub Pages
+        Progetto di esempio per GitHub Pages (modificato)
       </p>
 
       <div style={{ margin: '1rem 0' }}>
